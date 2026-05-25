@@ -1,0 +1,6 @@
+{
+  "name": "Bulk WhatsApp Messenger",
+  "description": "Bulk messaging dashboard for WhatsApp campaigns powered by Nabda OTP API, featuring CSV parsing, live run simulators, visual logs, and API endpoint integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
